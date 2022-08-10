@@ -1,8 +1,8 @@
 # Trabalho Módulo II 
 
-Apresentação dos conteúdos passa no Curso de Programação Web Full Stack
+Apresentação dos conteúdos passados no Curso de Programação Web FullStack
 
-Os assuntos abordados até hoje foram:
+Os assuntos abordados até o momento foram:
 
 Lógica 
 Git 
